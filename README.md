@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Francivaldo Lima 👋
 
 - 🔭 Desenvolvedor Java em Formação
-- 🌱 Estudo Java
+- 🌱 Estudo Java e Spring Framework
 - 😄 Pronouns: ele/dele
 
 <div align="center">
